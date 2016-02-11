@@ -3,3 +3,5 @@ sample
 My name is Vadim
 
 My age is 24
+
+I am trying to understand the Web Programming, based on PHP
