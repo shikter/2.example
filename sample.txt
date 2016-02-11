@@ -1,3 +1,5 @@
 sample
 
 My name is Vadim
+
+My age is 24
